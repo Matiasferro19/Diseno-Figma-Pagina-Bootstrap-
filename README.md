@@ -1,6 +1,6 @@
 # Diseño App de Snacks 🍿
 
-Este repositorio contiene el diseño realizado en Figma para una app de venta de snacks.
+Este repositorio contiene el diseño realizado en Figma para una web de venta de snacks.
 
 ## Prototipo en Figma
 
